@@ -1,0 +1,7 @@
+3 conv layers: 32, 7; 32, 5; 64, 3
+3 feed forward layers: 128, 256, 43
+acc: 94.5
+
+USED THE 80K dataset instead
+excluded priorityroad
+greyscale
