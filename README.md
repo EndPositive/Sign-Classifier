@@ -44,4 +44,4 @@ Finally, the image is downscaled to 32x32 and fed to the neural network. The mod
 The last convolutional layer gets flattened and then passed to a 3 layer deep feed-forward network: the first hidden layer has a size of 128, the second 256 and the output layer has a size of 43 (the number of classes). The activation function used in all these layers is ReLU. The total accuracy reached after training is 94.5%, after training for only 2 epochs (the network saw the whole training set 2 times).
 
 ## Contributions
-This project was built by [Tiberiu Iancu](https://github.com/tiberiuiancu), Sebastian-Cristian Iozu, and me [Jop Zitman](https://github.com/EndPositive).
+This project was built by [Tiberiu Iancu](https://github.com/tiberiuiancu), [Sebastian-Cristian Iozu](https://github.com/ChrisPC-39), and me [Jop Zitman](https://github.com/EndPositive).
